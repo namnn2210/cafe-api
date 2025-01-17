@@ -27,7 +27,7 @@ SECRET_KEY = os.getenv('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost', 'cafe.226pay.com']
+ALLOWED_HOSTS = ['localhost', 'api-cafe.226pay.com']
 
 
 # Application definition
